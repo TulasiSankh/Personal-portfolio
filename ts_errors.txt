@@ -1,0 +1,2 @@
+﻿src/components/Contact.tsx(4,16): error TS2305: Module '"lucide-react"' has no exported member 'Linkedin'.
+src/components/Footer.tsx(4,10): error TS2305: Module '"lucide-react"' has no exported member 'Linkedin'.
